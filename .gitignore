@@ -1,0 +1,11 @@
+.env
+.DS_Store
+node_modules
+
+# Hardhat files
+/cache
+/artifacts
+/typechain-types
+
+# IDEs and editors
+/.idea
